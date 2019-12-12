@@ -1,3 +1,0 @@
-# curs-espavila
-
-Holii
