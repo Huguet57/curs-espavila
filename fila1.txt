@@ -3,4 +3,9 @@ i just quan mirava a l'horitzó he notat
 l'aigua del vàter com m'esquitxava el culet
 i m'ha semblat el Jofre donant-me un petonet
 
+<<<<<<< HEAD
 En Pere és groc i no xino
+=======
+
+
+>>>>>>> 9a4a7884157a02e443035f0d0de9cdd255f9e4a0
